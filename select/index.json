@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "日常の少し先へ",
+  "base_artist": "Mr.ふぉるて",
+  "createdAt": "2026-02-20T12:45:33.219105Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "日常の少し先へ",
+      "artist": "Mr.ふぉるて",
+      "has_synced": false,
+      "path": "select/pl_01_日常の少し先へ_Mr.ふぉるて.txt"
+    }
+  ]
+}
